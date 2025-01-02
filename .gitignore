@@ -1,0 +1,10 @@
+# SET patterns for artifact exclusions and exceptions.
+
+# Exclude .env files
+.env
+
+# Exclude intelliJ files
+.idea
+
+# Exclude node.js files
+node_modules
